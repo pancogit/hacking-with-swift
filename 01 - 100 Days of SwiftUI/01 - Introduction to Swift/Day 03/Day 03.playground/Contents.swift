@@ -90,7 +90,7 @@ let bondMovies = ["Bond 1", "Bond 2", "Bond 3", "Bond 4"]
 print(bondMovies.contains("Bond 2"))
 print(bondMovies.contains("Bond"))
 
-var cities = ["Nevade", "Uzice", "Novi Sad", "Cacak"]
+var cities = ["New York", "Paris", "Madrid", "Tokyo"]
 
 print(cities)
 

@@ -98,7 +98,7 @@ func day_03() {
     print(bondMovies.contains("Bond 2"))
     print(bondMovies.contains("Bond"))
 
-    var cities = ["Nevade", "Uzice", "Novi Sad", "Cacak"]
+    var cities = ["New York", "Paris", "Madrid", "Tokyo"]
 
     print(cities)
 
